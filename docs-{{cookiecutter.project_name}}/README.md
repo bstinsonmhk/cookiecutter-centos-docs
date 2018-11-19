@@ -2,7 +2,7 @@
 
 This repository contains the sources that make up the
 [https://docs.centos.org/en-US/centos/{{ cookiecutter.project_name }} /]({{
-cookiecutter.project_title). Please report Issues and submit Pull Requests for
+cookiecutter.project_title }}). Please report Issues and submit Pull Requests for
 **Content Fixes** here. For other issues or fixes, use:
 
 * [CentOS_Docs](https://github.com/CentOS/docs) - the builder repository for the entire website, including for example structure configuration
