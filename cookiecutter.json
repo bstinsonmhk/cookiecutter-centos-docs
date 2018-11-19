@@ -1,0 +1,8 @@
+{
+    "full_name": "Brian Stinson",
+    "email": "brian@bstinson.com",
+    "github_username": "bstinsonmhk",
+    "project_name": "cico-docs",
+    "project_title": "CentOS CI Admin Guide",
+    "container_runtime": "podman"
+}

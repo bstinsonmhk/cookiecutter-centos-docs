@@ -1,0 +1,7 @@
+---
+name: centos
+title: {{ cookiecutter.project_title }}
+version: master
+start_page: install-guide:index
+nav:
+    - modules/{{ cookiecutter.project_name }}/nav.adoc
