@@ -6,7 +6,7 @@ CentOS Docs Cookiecutter
 Requirements
 ------------
 
-Install the `cookiecutter`
+Install the `cookiecutter` tool
 
 On CentOS:
 
@@ -22,7 +22,9 @@ On Fedora:
 Usage
 -----
 
-Generate a new CentOS Docs Subsite: `cookiecutter gh:bstinsonmhk/cookiecutter-centos-docs`
+Generate a new CentOS Docs Subsite: 
+
+`cookiecutter gh:bstinsonmhk/cookiecutter-centos-docs`
 
 Contribute
 ----------
